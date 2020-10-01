@@ -1,2 +1,2 @@
-# tindog-website
+# Tindog-Website-Design
 including  html ,CSS, bootstrap
